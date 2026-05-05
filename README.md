@@ -14,8 +14,8 @@ business problems.
 | [Azure ML Pipeline](https://github.com/philipatosam/azure-ml-project) | End-to-end ML pipeline built and deployed on Microsoft Azure | Python, Azure ML, scikit-learn |
 
 ## 🛠️ Skills
-**Languages:** Python, SQL, R 
-**ML:** scikit-learn, XGBoost, NLTK, imbalanced-learn  
+**Languages:** Python, SQL, R  
+**ML:** scikit-learn, NLTK, imbalanced-learn  
 **Experimentation:** A/B Testing, Power Analysis, Hypothesis Testing  
 **Cloud:** Microsoft Azure, AWS, Databricks, GCP  
 **Tools:** Jupyter, Git, pandas, matplotlib, seaborn  
