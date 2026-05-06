@@ -10,7 +10,7 @@ business problems.
 |---|---|---|
 | [Churn Prediction](https://github.com/philipatosam/churn-prediction) | Predicts telecom customer churn using XGBoost and SMOTE. ROC AUC: 0.83 | Python, XGBoost, scikit-learn |
 | [A/B Testing Framework](https://github.com/philipatosam/ab-testing-experiment) | End-to-end experiment analysis for Microsoft Teams onboarding. $600K revenue impact identified | Python, scipy, statsmodels |
-| [NLP Sentiment Analysis](https://github.com/philipatosam/nlp-sentiment-analysis) | Classifies product review sentiment and extracts key themes driving negative feedback | Python, NLTK, TF-IDF |
+| [NLP Sentiment Analysis](https://github.com/philipatosam/nlp-sentiment-analysis) | Classifies Microsoft product reviews as positive, neutral, or negative. Identified Azure as highest priority product for sentiment improvement | Python, NLTK, TF-IDF, scikit-learn |
 | [Azure ML Pipeline](https://github.com/philipatosam/azure-ml-project) | End-to-end ML pipeline built and deployed on Microsoft Azure | Python, Azure ML, scikit-learn |
 
 ## 🛠️ Skills
