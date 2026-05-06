@@ -1,7 +1,7 @@
 # Hi, I'm Philip 👋
 
 I'm a Data Scientist with 6+ years of analytics experience, 
-currently building machine learning projects to solve real 
+building machine learning projects to solve real 
 business problems.
 
 ## 🔬 Featured Projects
