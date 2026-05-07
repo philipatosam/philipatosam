@@ -16,10 +16,12 @@ business problems.
 
 ## 🛠️ Skills
 **Languages:** Python, SQL, R  
-**ML:** scikit-learn, NLTK, imbalanced-learn  
+**ML & AI:** scikit-learn, XGBoost, NLTK, imbalanced-learn, LLMs, RAG  
+**Generative AI:** Azure OpenAI, GPT-4o, Prompt Engineering  
 **Experimentation:** A/B Testing, Power Analysis, Hypothesis Testing  
-**Cloud:** Microsoft Azure, AWS, Databricks, GCP  
-**Tools:** Jupyter, Git, pandas, matplotlib, seaborn  
+**Cloud:** Microsoft Azure, Azure ML, Azure OpenAI, AWS, Databricks, GCP  
+**MLOps:** FastAPI, REST APIs, Model Deployment, Model Registry  
+**Tools:** Jupyter, Git, pandas, matplotlib, seaborn, Power BI, Tableau  
 
 ## 📫 Let's Connect
 [LinkedIn](https://linkedin.com/in/philipatosam)
