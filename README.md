@@ -17,7 +17,7 @@ business problems.
 ## 🛠️ Skills
 **Languages:** Python, SQL, R  
 **ML & AI:** scikit-learn, XGBoost, NLTK, imbalanced-learn, LLMs, RAG  
-**Generative AI:** Azure OpenAI, GPT-4o, Prompt Engineering  
+**Generative AI:** Azure OpenAI, GPT, Prompt Engineering  
 **Experimentation:** A/B Testing, Power Analysis, Hypothesis Testing  
 **Cloud:** Microsoft Azure, Azure ML, Azure OpenAI, AWS, Databricks, GCP  
 **MLOps:** FastAPI, REST APIs, Model Deployment, Model Registry  
